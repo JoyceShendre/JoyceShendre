@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science.
 - 🌱 I’m currently learning ...Data Science,Python,Flutter,Node Js.
 - 💞️ I’m looking to collaborate on ... Python, NodeJs.
-- 📫 How to reach me ... [Gmail](joyceshendre07@gmail.com)
+- 📫 How to reach me ... [Gmail](joyceshendre07@gmail.com) [LinkedIn](https://www.linkedin.com/in/joyce-shendre/)
 
 
 <!---
