@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoyceShendre
-- 👀 I’m interested in ... Data Science.
-- 🌱 I’m currently learning ...Data Science,Python,Flutter,Node Js.
-- 💞️ I’m looking to collaborate on ... Python, NodeJs.
+- 👀 I’m interested in ..Backend,Cloud Technologies.
+- 🌱 I’m currently learning ...Python,Cloud Technologies,MERN Stack,Docker.
+- 💞️ I’m looking to collaborate on ... Python, AWS.
 - 📫 How to reach me ... [Gmail](joyceshendre07@gmail.com) [LinkedIn](https://www.linkedin.com/in/joyce-shendre/)
 
 
